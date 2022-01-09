@@ -22,7 +22,7 @@ spec:
     resources:
       requests:
         memory: 32Mi
-        cpu: 19m
+        cpu: 20m
     service:
       type: ClusterIP
     mariadb:
